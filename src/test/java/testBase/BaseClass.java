@@ -67,6 +67,7 @@ public class BaseClass {
 			else
 			{
 				System.out.println("No matching os found");
+				return;
 			}
 			
 			//browser
